@@ -49,7 +49,7 @@ app.on('ready', () => {
     
     setTimeout(() => {
         createWindow();
-      }, 5000);
+      }, 2000);
 });
 
 app.on('window-all-closed', function () {
